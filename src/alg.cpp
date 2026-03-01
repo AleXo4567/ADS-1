@@ -1,4 +1,4 @@
-// Copyright 2022 NNTU
+// Copyright 2022 NNTU_G
 #include <cstdint>
 #include <cmath>
 #include <iostream>
